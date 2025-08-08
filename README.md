@@ -21,3 +21,5 @@ The main problem that remains is, can we construct an efficient algorithm to do 
 Use the PoC: QSv4_001.py -keysize 40
 
 It is very slowly, but I want to keep working in this direction. I will continue that work here while finishing v3.
+
+ps: The uploaded PoC is very bad and sloppy. It's a frankenstein PoC bc of just modifying previous iterations. I know that.. it's about the math though not the code.
