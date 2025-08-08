@@ -5,7 +5,7 @@ For the current fastest version and my paper, look at v3 (which is also still a 
 This is however the cutting edge of my number theoretical research and the direction I should continue in.
 
 The current PoC creates a hashmap that shows for every linear coefficient mod p at which quadratic coefficient mod p it is found.
-I.e if we have as valid solution 6x<sup>2</sup>+4x = 0 mod N then we will find 6 as a valid solution as quadratic coefficient for linear coefficient 4 in EVERY MOD P, without exception.
+I.e if we have as valid solution 6x<sup>2</sup>+4x = 0 mod N then we will find 6 as a valid solution as quadratic coefficient for linear coefficient 4 in EVERY MOD P (and its powers), without exception.
 This "idea" is similar to using legendre symbols to determine squaredness of an integers by checking if its a square mod multiple primes and the more primes moduli it is a square in, the more likely it is a square in the integers.
 
 There is two approaches to creating the hashmap:
