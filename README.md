@@ -1,6 +1,6 @@
 # factorization_v4
 
-For the current fastest version, look at v3 (which is also still a work in progress as I rewrite that project to C).
+For the current fastest version and my paper, look at v3 (which is also still a work in progress as I rewrite that project to C).
 
 This is however the cutting edge of my number theoretical research and the direction I should continue in.
 
