@@ -1,6 +1,6 @@
 # factorization_v4
 
-For the current fastest version and my paper, look at v3 (which is also still a work in progress as I rewrite that project to C).
+For the current fastest version and my paper, look at v3 (which is also still a work in progress as I rewrite that project to C)... that one will easily factor above 200 bits. And once I port my findings to C and do all the remaining optimizations I hope to blaze past the presumed 110 digit hard ceiling for quadratic sieve - based algorithms.
 
 This is however the cutting edge of my number theoretical research and the direction I should continue in.
 
