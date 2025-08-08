@@ -25,3 +25,5 @@ It is very slowly, but I want to keep working in this direction. I will continue
 ps: The uploaded PoC is very bad and sloppy. It's a frankenstein PoC bc of just modifying previous iterations. I know that.. it's about the math though not the code.
 
 pss: Yes I know it is very slow, but it doesn't matter, that's just how this type of research works. Small steps while figuring things out. I think the representation in the hashmap is good, I just need to figure out how to pull solutions from it efficiently.. that's the main bulk that requires further research. Anyway, first for the coming days I am going to focus on v3 and porting to C.
+
+Update: Actually... all of this got me thinking. I may be able to borrow some ideas from this approach to significantly speed up smooth finding... but let me port my work to C first, then we'll see. I know this all seems chaotic right now.... but I'm nearly there now... I can just feel it... it's something I just happen to "know" .... I just know things magically. Things just appear in my head. Hmmm.
