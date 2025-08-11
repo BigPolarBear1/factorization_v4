@@ -10,5 +10,7 @@ It is very slowly, but I want to keep working in this direction. I will continue
 
 ps: The uploaded PoC is very bad and sloppy. It's a frankenstein PoC bc of just modifying previous iterations. I know that.. it's about the math though not the code.
 
+Side note: I guess at this rate I will eventually have to rebrand my paper to: Factorization - A three year journey. lol. I don't know what it takes to get people to take me serious... I really have no choice but to keep going until the bitter end... it's the only way at this point.. especially since I can't find employment anymore or 0day buyers. literally no way out of my current life except succeeding at this.
+
 
 
